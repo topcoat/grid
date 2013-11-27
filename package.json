@@ -1,6 +1,6 @@
 {
   "name": "topcoat-grid",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "simple grid built on css flex",
   "main": "Gruntfile.js",
   "style": "src/grid.css",
