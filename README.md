@@ -19,7 +19,7 @@ Grid system built on top of [flex](https://developer.mozilla.org/en-US/docs/Web/
     </div>
 
     <div class="topcoat-grid__row">
-    <div class="topcoat-grid__column--2 topcaot-grid__offset--6">
+    <div class="topcoat-grid__column--2 topcoat-grid__offset--6">
         2 Columns Offset 6
     </div>
     </div>
