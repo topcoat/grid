@@ -1,0 +1,23 @@
+{
+  "name": "topcoat-grid",
+  "version": "0.1.0",
+  "homepage": "https://github.com/topcoat/grid",
+  "authors": [
+    "Kristofer Joseph"
+  ],
+  "description": "simple grid built on css flex",
+  "main": "css/grid.css",
+  "keywords": [
+    "topcoat",
+    "grid",
+    "css"
+  ],
+  "license": "MIT, Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
